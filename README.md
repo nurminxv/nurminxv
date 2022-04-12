@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @nurminxv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# selamat datang di github "nurminxv"
+Di sini saya akan memberikan hasil karya saya dalam membuat sebuah program
+Jika kamu penasaran apa itu program mari belajar,berjuang bersama sama demi 
+suatu impian yg kamu hayal kan.
 
-<!---
-nurminxv/nurminxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-Selamat datang
+Author : nurminxv
+Github : nurminxv
+Fb     : leader
+Youtube: fakta semata 
+Jangan lupa follow github saya
+Don't forget follow my github
+
+Thank you 
