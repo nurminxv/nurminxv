@@ -6,8 +6,7 @@ suatu impian yg kamu hayal kan.
 
 Author : nurminxv
 Github : nurminxv
-Fb     : leader
-Youtube: fakta semata 
+website: iq30.com
 Jangan lupa follow github saya
 Don't forget follow my github
 
